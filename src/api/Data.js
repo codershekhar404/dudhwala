@@ -35,24 +35,6 @@ const Data = [
     price: 9.5,
     unit: "Pcs",
   },
-  {
-    id: 7,
-    name: "Harvest",
-    price: 26,
-    unit: "Pcs",
-  },
-  {
-    id: 8,
-    name: "Gatu",
-    price: 9,
-    unit: "Pcs",
-  },
-  {
-    id: 9,
-    name: "Dahi Aananda",
-    price: 9,
-    unit: "Pcs",
-  },
 ];
 
 export default Data;
