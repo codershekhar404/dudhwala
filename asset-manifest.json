@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dudhwala/static/css/main.30d7c024.css",
-    "main.js": "/dudhwala/static/js/main.cbbccf15.js",
+    "main.js": "/dudhwala/static/js/main.3a0112b4.js",
     "index.html": "/dudhwala/index.html",
     "main.30d7c024.css.map": "/dudhwala/static/css/main.30d7c024.css.map",
-    "main.cbbccf15.js.map": "/dudhwala/static/js/main.cbbccf15.js.map"
+    "main.3a0112b4.js.map": "/dudhwala/static/js/main.3a0112b4.js.map"
   },
   "entrypoints": [
     "static/css/main.30d7c024.css",
-    "static/js/main.cbbccf15.js"
+    "static/js/main.3a0112b4.js"
   ]
 }
