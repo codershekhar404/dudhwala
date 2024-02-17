@@ -20,7 +20,7 @@ const Data = [
   {
     id: 4,
     name: "Super Tea",
-    price: 8.5,
+    price: 8.8,
     unit: "Pcs",
   },
   {
