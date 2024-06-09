@@ -2,19 +2,19 @@ const Data = [
   {
     id: 1,
     name: "Full Cream",
-    price: 64,
+    price: 66,
     unit: "Kg",
   },
   {
     id: 2,
     name: "Cow Milk",
-    price: 54,
+    price: 56,
     unit: "Kg",
   },
   {
     id: 3,
     name: "Buffalo Milk",
-    price: 67,
+    price: 70,
     unit: "Kg",
   },
   {
@@ -25,8 +25,8 @@ const Data = [
   },
   {
     id: 5,
-    name: "Dahi",
-    price: 17,
+    name: "Dahi 10Rs",
+    price: 9,
     unit: "Pcs",
   },
   {
